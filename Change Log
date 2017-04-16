@@ -13,6 +13,10 @@ Version 1.0.0
     - Help Section ( How to set up configs completed)
     - Change Logs Section Implimented
       
+      16/04/2017
+    - Added Section For Waypoint Creation
+    - Added Section For Sql Quieries - Item Stat Modification, Extended Costs, Enable Smart Scripts
+      
   STILL TO DO
     - Reports and Suggestions Sections - impliment sending emails
     - Quest Creation Section
@@ -20,6 +24,3 @@ Version 1.0.0
     - Check for updates
     - Help Reporting Bugs / Issues
     - Designs For Launcher Styles Along With Realmlist, Clear Cache And Play Buttons
-    
-    16/04/2017
-    Added section for waypoint creation
