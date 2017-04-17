@@ -10,12 +10,15 @@ Version 1.0.0
     - SmartAI Creation
     - Configuration Section Added
     - Online Sections Impliminented
-    - Help Section ( How to set up configs completed)
+    - Help Section ( How to set up configs completed )
     - Change Logs Section Implimented
       
       16/04/2017
     - Added Section For Waypoint Creation
     - Added Section For Sql Quieries - Item Stat Modification, Extended Costs, Enable Smart Scripts
+    
+      17/04/2017
+    - Designs For Launcher Styles Along With Realmlist, Clear Cache And Play Buttons
       
   STILL TO DO
     - Reports and Suggestions Sections - impliment sending emails
@@ -23,4 +26,3 @@ Version 1.0.0
     - Client Download Sections
     - Check for updates
     - Help Reporting Bugs / Issues
-    - Designs For Launcher Styles Along With Realmlist, Clear Cache And Play Buttons
