@@ -2,21 +2,25 @@ Version 1.0.0
   - APP Created By DPCoder @ Lordcraft.net
   Change Log Updated 09/07/2017
   
- 08/07/2017
+ 06/07/2017
    COMPLETED TASKS
     - Gossip Creator
     - Npc Creator
     - Creature Loot Creation
     - SmartAI Creation
     - Quest Creation
+    
+08/07/2017    
     - Waypoint Creation
     - Configuration Section Added
     - Change Logs Section Implimented 
     - Added Section For Sql Quieries
     - Launcher Tab Added with sections to clear cache, set realmlist and play (have to configure paths in the config section to use)
     
-    09/07/2017
+ 09/07/2017
     - 1 Hand Sword Creation Implimented
+    - 1 Hand Axe Creation Implimented
+    - 2 hand Axe Implimented
     
    STILL TO DO
     - Add / Impliment and code sections for item creations
