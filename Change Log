@@ -17,10 +17,24 @@ Version 1.0.0
     - Added Section For Sql Quieries
     - Launcher Tab Added with sections to clear cache, set realmlist and play (have to configure paths in the config section to use)
     
- 09/07/2017
+ 09/07/2017 - WEAPON CREATORS IMPLIMENTED
     - 1 Hand Sword Creation Implimented
     - 1 Hand Axe Creation Implimented
-    - 2 hand Axe Implimented
+    - 2 Hand Axe Implimented
+    - Bow Creation Impliented
+    - Gun Creation implimented
+    - 1 Hand Mace Creation Implimented
+    - 2 Hand Mace Creation Implimented
+    - Polearm Creation implimented
+    - 2 Hand Sword Creation Implimented
+    - Stave Creation Creation Implimented
+    - Fist Creation Implimented
+    - Dagger Creation Implimented
+    - Thrown Creation Implimented
+    - Crossbow Creation Implimented
+    - Wand Creation Implimented
+    - Shield Creation Implimented
+    
     
    STILL TO DO
     - Add / Impliment and code sections for item creations
