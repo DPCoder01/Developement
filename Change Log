@@ -1,11 +1,12 @@
 Version 1.0.0
   - APP Created By DPCoder @ Lordcraft.net
+  Change Log Updated 09/07/2017
   
  08/07/2017
    COMPLETED TASKS
     - Gossip Creator
     - Npc Creator
-    - Loot Creation
+    - Creature Loot Creation
     - SmartAI Creation
     - Quest Creation
     - Waypoint Creation
@@ -13,6 +14,9 @@ Version 1.0.0
     - Change Logs Section Implimented 
     - Added Section For Sql Quieries
     - Launcher Tab Added with sections to clear cache, set realmlist and play (have to configure paths in the config section to use)
+    
+    09/07/2017
+    - 1 Hand Sword Creation Implimented
     
    STILL TO DO
     - Add / Impliment and code sections for item creations
@@ -22,6 +26,10 @@ Version 1.0.0
     - Creature Health in Sql section
     - Enable Smart Script Section in Sql section
     - Add " Special Thanks To" Screen for people who tested, gave feedback and helped
+    - Create Skinning Loot
+    - Create Pickpocketing Loot
+    - Create Fishing Loot
+    - Item Creators Sections
             
     TESTING STILL REQUIRED
     - Ask someone to check and test section, evaluate and give feedback on bugs, issues, suggestions and improvements
