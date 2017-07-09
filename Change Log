@@ -43,6 +43,7 @@ Version 1.0.0
     - Shirt Creation implimented
     - Cloak Creation Implimented
     - Special Thanks Section Implimented (Test Information Added and Currently Working 100%)
+    - Enable Creature Smart Scripts Implimented
   
    STILL TO DO
     - Add / Impliment and code sections for item creations - (Currently In Progress.....)
@@ -50,7 +51,6 @@ Version 1.0.0
     - Item Stat Moodifications in Sql section
     - Creature Level Mod in sql section
     - Creature Health in Sql section
-    - Enable Smart Script Section in Sql section
     - Create Skinning Loot
     - Create Pickpocketing Loot
     - Create Fishing Loot
