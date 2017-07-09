@@ -44,11 +44,11 @@ Version 1.0.0
     - Cloak Creation Implimented
     - Special Thanks Section Implimented (Test Information Added and Currently Working 100%)
     - Enable Creature Smart Scripts Implimented
+    - Item Stat Modification Implimented in SQL Section
   
    STILL TO DO
     - Add / Impliment and code sections for item creations - (Currently In Progress.....)
     - Impliment the sending of emails for application issues and application suggestions
-    - Item Stat Moodifications in Sql section
     - Creature Level Mod in sql section
     - Creature Health in Sql section
     - Create Skinning Loot
