@@ -17,7 +17,7 @@ Version 1.0.0
     - Added Section For Sql Quieries
     - Launcher Tab Added with sections to clear cache, set realmlist and play (have to configure paths in the config section to use)
     
- 09/07/2017 - WEAPON CREATORS IMPLIMENTED
+ 09/07/2017
     - 1 Hand Sword Creation Implimented
     - 1 Hand Axe Creation Implimented
     - 2 Hand Axe Implimented
@@ -35,6 +35,7 @@ Version 1.0.0
     - Wand Creation Implimented
     - Shield Creation Implimented
     
+    - Special Thanks Section Implimented (Test Information Added and Currently Working 100%)
     
    STILL TO DO
     - Add / Impliment and code sections for item creations
