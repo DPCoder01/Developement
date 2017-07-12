@@ -1,14 +1,13 @@
 Version 1.0.0
   Created By DPCoder @ Lordcraft.net
-  Previous Update ON: 09/07/2017
-  Latest Update ON: 10/07/2017
+  Previous Update ON: 10/07/2017
+  Latest Update ON: 12/07/2017
   
  06/07/2017
    COMPLETED TASKS
     - Gossip Creator
     - Npc Creator
     - Creature Loot Creation
-    - SmartAI Creation
     - Quest Creation
     
 08/07/2017    
@@ -47,11 +46,14 @@ Version 1.0.0
     - Enable Creature Smart Scripts Implimented
     - Item Stat Modification Implimented in SQL Section
   
+  12/08/2017
+    - Cloth Armor Creation Implimented
+    - Leather Armor Creation Implimented
+    - Mail Armor Creation Implimented
+    - Plate Armor Creation Implimented
+  
    STILL TO DO
-    - Add / Impliment and code sections for item creations - (Currently In Progress.....)
     - Impliment the sending of emails for application issues and application suggestions
-    - Creature Level Mod in sql section
-    - Creature Health in Sql section
     - Create Skinning Loot
     - Create Pickpocketing Loot
     - Create Fishing Loot
