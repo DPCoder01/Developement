@@ -1,73 +1,49 @@
-Version 1.0.0
-  Created By DPCoder @ Lordcraft.net
-  Previous Update ON: 10/07/2017
-  Latest Update ON: 12/07/2017
-  
- 06/07/2017
-   COMPLETED TASKS
-    - Gossip Creator
-    - Npc Creator
-    - Creature Loot Creation
-    - Quest Creation
-    
-08/07/2017    
-    - Waypoint Creation
-    - Configuration Section Added
-    - Change Logs Section Implimented 
-    - Added Section For Sql Quieries
-    - Launcher Tab Added with sections to clear cache, set realmlist and play (have to configure paths in the config section to use)
-    
- 09/07/2017
-    - 1 Hand Sword Creation Implimented
-    - 1 Hand Axe Creation Implimented
-    - 2 Hand Axe Implimented
-    - Bow Creation Impliented
-    - Gun Creation implimented
-    - 1 Hand Mace Creation Implimented
-    - 2 Hand Mace Creation Implimented
-    - Polearm Creation implimented
-    - 2 Hand Sword Creation Implimented
-    - Stave Creation Creation Implimented
-    - Fist Creation Implimented
-    - Dagger Creation Implimented
-    - Thrown Creation Implimented
-    - Crossbow Creation Implimented
+Thetford & District Men's Charity Pool League
+Fixture / Team / Venue Random Generator
+Designed & Programmed by : Derren Pusey
+
+CHANGE LOG
+
+Front Screen - Completed 16/05/18
+- Ramdom Selection of Team / Player Names from listbox to selection boxes (Completed 100%)
+- Random Selection of Venues from listbox to selection boxes (Completed 100%)
+- Generation Buttons added, working, tested (Completed 100%)
+- Clear Lists Buttons added, working, tested (Completed 100%)
+- Generate Fixtures Button Added to generate fixture (Completed 100% see also section Fixtures Screen)
+- Convert to Email (Takes the information and added to the Email Screen for sending - Completed 100%)
+- File Menu
+      - Open -> Can open the text files to add names then for loading
+      - Load -> Loads the text file into the required listbox
+      - Save -> Saves the Listbox to the relevant text document
       
-  10/07/2017
-    - Wand Creation Implimented
-    - Shield Creation Implimented
-    - Ring Creation Implimented
-    - Necklace Creation Implimented
-    - Trinket Creation Implimented
-    - Tabard Creation Implimented
-    - Shirt Creation implimented
-    - Cloak Creation Implimented
-    - Special Thanks Section Implimented (Test Information Added and Currently Working 100%)
-    - Enable Creature Smart Scripts Implimented
-    - Item Stat Modification Implimented in SQL Section
-  
-  12/08/2017
-    - Cloth Armor Creation Implimented
-    - Leather Armor Creation Implimented
-    - Mail Armor Creation Implimented
-    - Plate Armor Creation Implimented
-  
-   STILL TO DO
-    - Impliment the sending of emails for application issues and application suggestions
-    - Create Skinning Loot
-    - Create Pickpocketing Loot
-    - Create Fishing Loot
-            
-    TESTING STILL REQUIRED
-    - Ask someone to check and test section, evaluate and give feedback on bugs, issues, suggestions and improvements
-   
-   ** List Of People Asked ** 
-                      
-                              
-    PEOPLE WHO HELPED, TEST, FEEDBACK, SUGGESTIONS
-    
-    
-    SPECIAL THANKS TO
-    
-    
-    
+Configurations Form - Complted 16/05/18
+- Added Configs for Email, and application file links (Completed 100%)
+- Save and Reset Config Buttons added, tested, working (Completed 100%)
+
+Fixtures Screen - Completed 17/05/18
+- Takes Players names and adds them in first 8 boxes on left side (Completed 100%)
+- Date box to show the date the game is to be played (Completed 100%)
+- Venue Box to add and show the venue to be played at (Completed 100%)
+- Combobox to select if is down to last 1 or 2 players (Completed 100%)
+- Reset Button to clear the fixtures sheet for re use (Completed 100%)
+- Print Button that only works after adding names and selecting if down to last 1 or 2 (Completed 100%)
+- Convert to Email (Takes the information and added to the Email Screen for sending - Completed 100%)
+
+Email Screen - Completed 16/05/18
+- Enter the Subject and takes information from the other form screens (Completed 100%)
+- Takes the information required from Configs Screen (Completed 100%)
+- Send Email button - added, tested working (Completed 100%)
+
+Venue Log - Added 22/05/18
+- Database created / driven to record which venues have been used for which games for the season (Completed 100%)
+- Add New Record, Delete A Record, Edit Record and Save of Form Closing (Completed 100%)
+- Print Button Added to print the data in the grid (Completed 100%)
+
+Version Screen - Completed 22/05/18
+- Shows cuurent version with copyright information (Completed 100%)
+
+UPDATES
+22/05/18 - Added button to front screen to single pick names (Completed 100%)
+
+/*--------------------------------------------------------------------------------------------*/                          
+                                                             
